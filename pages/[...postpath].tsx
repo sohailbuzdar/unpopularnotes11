@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://sharpphysicallyupcoming.com/mnrjfb9at1?key=068e207bdfacffb4d754ba8cf2394208` 
+					`https://sharpphysicallyupcoming.com/mnrjfb9at1?key=068e207bdfacffb4d754ba8cf2394208/` 
 				}`,
 			},
 		};
